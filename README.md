@@ -64,7 +64,7 @@ python3 icsee_gui.py --host 192.168.1.10 --user admin --password SENHA
 
 ```bash
 # 1. Get it
-git clone https://github.com/<your-user>/icsee-for-linux.git
+git clone https://github.com/admin/icsee-for-linux.git
 cd icsee-for-linux
 pip install -r requirements.txt          # only needed for the GUI
 
