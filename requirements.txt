@@ -1,0 +1,10 @@
+# Núcleo do protocolo (icsee_client.py, discover.py): somente biblioteca padrão.
+# As dependências abaixo são necessárias APENAS para a interface gráfica (icsee_gui.py).
+#
+# Também é preciso o ffmpeg instalado no sistema (não é um pacote pip):
+#   Debian/Ubuntu: sudo apt install ffmpeg alsa-utils
+#   Fedora:        sudo dnf install ffmpeg alsa-utils
+#   Arch:          sudo pacman -S ffmpeg alsa-utils
+
+Pillow>=9.0
+numpy>=1.21
