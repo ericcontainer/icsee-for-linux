@@ -88,7 +88,7 @@ sudo pacman -S ffmpeg alsa-utils
 ## Instalação
 
 ```bash
-git clone https://github.com/admin/icsee-for-linux.git
+git clone https://github.com/ericcontainer/icsee-for-linux.git
 cd icsee-for-linux
 pip install -r requirements.txt
 ```
